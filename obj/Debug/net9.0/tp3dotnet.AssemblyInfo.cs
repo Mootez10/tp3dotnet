@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tp3dotnet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a8d2f8cf6d1fd60f8dabde8c39d918cbd7d21f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("tp3dotnet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tp3dotnet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
